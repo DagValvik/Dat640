@@ -1,2 +1,1 @@
-rank-bm25pip
-ranx
+sentence-transformers
