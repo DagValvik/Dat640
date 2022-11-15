@@ -131,6 +131,6 @@ dependencies:
   - pip:
     - torchaudio==0.13.0
     - torchvision==0.14.0
-    - tqmd
-    - elasticsearch
+    - tqdm
+    - elasticsearch==7.17.6
 prefix: C:\Users\Dvalv\anaconda3\envs\Dat640
